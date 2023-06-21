@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/addLand": "pages/addLand.js",
+  "/": "pages/index.js",
+  "/explore": "pages/explore.js",
+  "/landhistory": "pages/landhistory.js"
+}
